@@ -97,6 +97,11 @@
     color: #fff;
     margin-bottom: .25rem;
     text-transform: capitalize;
+    text-decoration: none;
+}
+
+.pokemon .name:hover{
+    color:#a0e8d7;
 }
 
 .pokemon .detail {
